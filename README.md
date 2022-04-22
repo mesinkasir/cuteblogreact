@@ -1,3 +1,5 @@
-# cuteblogreact
+# Cuteblog for React
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/cuteblogreact)
+on progresss......... stay tunnedd.....
+
+Edit on StackBlitz ⚡️
