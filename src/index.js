@@ -19,7 +19,7 @@ class App extends Component {
           <title>Cuteblog for react</title>
           <meta
             content="a new modern web blog template cute blog for react with helmet SEO"
-            name=" description"
+            name="description"
           />
           <meta content="Cuteblog for react" property="og:title" />
           <meta

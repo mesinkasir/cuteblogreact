@@ -9,7 +9,7 @@ const SinglePage = ({ match }) => {
       <Helmet>
         <html lang="en" />
         <title>{article.title}</title>
-        <meta content={article.desc} name=" description" />
+        <meta content={article.desc} name="description" />
         <meta content={article.title} property="og:title" />
         <meta content={article.desc} property="og:description" />
         <meta content={article.img} property="og:image" />
