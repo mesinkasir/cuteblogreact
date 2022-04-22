@@ -7,30 +7,31 @@ const SinglePage = ({ match }) => {
   return (
     <>
       <Helmet>
+        <html lang="en" />
         <title>{article.title}</title>
-        <meta content="{article.desc}" name=" description" />
-        <meta content="{article.title}" property="og:title" />
-        <meta content="{article.desc}" property="og:description" />
-        <meta content="{article.img}" property="og:image" />
+        <meta content={article.desc} name=" description" />
+        <meta content={article.title} property="og:title" />
+        <meta content={article.desc} property="og:description" />
+        <meta content={article.img} property="og:image" />
         <meta content="https://axcora.com/getaxcoracms" property="og:author" />
-        <meta content="{article.title}" name="facebook:title" />
+        <meta content={article.title} name="facebook:title" />
         <meta content="website" property="og:type" />
         <meta
           content="https://www.facebook.com/mesinkasircomplete"
           property="facebook:author"
         />
-        <meta content="{article.img}" name="facebook:image" />
-        <meta content="{article.title}" property="og:site_name" />
-        <meta content="{article.desc}" property="facebook:description" />
+        <meta content={article.img} name="facebook:image" />
+        <meta content={article.title} property="og:site_name" />
+        <meta content={article.desc} property="facebook:description" />
         <meta content="summary_large_image" name="twitter:card" />
         <meta
           content="https://twitter.com/hockeycomp"
           property="twitter:author"
         />
         <meta content="@hockeycomp" name="twitter:site" />
-        <meta content="{article.img}" name="twitter:image" />
-        <meta content="{article.desc}" name="twitter:description" />
-        <meta content="{article.title}" name="twitter:title" />
+        <meta content={article.img} name="twitter:image" />
+        <meta content={article.desc} name="twitter:description" />
+        <meta content={article.title} name="twitter:title" />
         <meta content="index, follow" name="robots" />
       </Helmet>
       <div className="p-1">

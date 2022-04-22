@@ -5,6 +5,7 @@ const datas = [
     description:
       'New and Free template download themes website blog for react.',
     intro: 'Read Documentation →',
+    img: 'https://mesinkasironline.web.app/img/createwebsiteusingreact.png',
   },
 ];
 

@@ -3,6 +3,7 @@ const articles = [
     name: 'about',
     title: 'Cute Blog React',
     date: '14 april 2022',
+    desc: 'about cute blog for react js',
     author: 'axcora',
     authorlink: 'https://website.axcora.com',
     img: 'https://cdn.dribbble.com/users/77598/screenshots/5919494/dribbble.png',

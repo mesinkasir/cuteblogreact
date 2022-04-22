@@ -2,7 +2,7 @@ import React from 'react';
 import Data from './Data';
 import { Link } from 'react-router-dom';
 const ArticleList = ({ articles }) => (
-  <div className="row">
+  <div className="row app">
     {Data.map((Data) => (
       <div className="col-12 p-3">
         <Link to="/">
