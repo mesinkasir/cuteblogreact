@@ -3,7 +3,6 @@ import { render } from 'react-dom';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import SinglePage from './SinglePage';
 import List from './List';
-import './style.css';
 import Nav from './Nav';
 import Top from './Top';
 import './cute.css';
