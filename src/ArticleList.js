@@ -26,7 +26,7 @@ const ArticleList = ({ articles }) => (
           />
           <section className="card-content p-3">
             <h3>
-              {article.title} <span class="cute">✏️</span>
+              {article.title} <span className="cute">✏️</span>
             </h3>
             <p className="date">
               👧<a href={article.authorlink}>{article.author}</a> ⏰{' '}

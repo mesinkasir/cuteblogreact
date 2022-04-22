@@ -28,6 +28,8 @@ const SinglePage = ({ match }) => {
           content="https://twitter.com/hockeycomp"
           property="twitter:author"
         />
+
+        <link href={article.img} rel="icon" type="image/x-icon" />
         <meta content="@hockeycomp" name="twitter:site" />
         <meta content={article.img} name="twitter:image" />
         <meta content={article.desc} name="twitter:description" />
@@ -43,7 +45,7 @@ const SinglePage = ({ match }) => {
           />
           <main className="card-content p-3 p-md-5">
             <h1>
-              {article.title} <span class="cute">✏️</span>
+              {article.title} <span className="cute">✏️</span>
             </h1>
             <h3>{article.desc}</h3>
             <p className="date">
