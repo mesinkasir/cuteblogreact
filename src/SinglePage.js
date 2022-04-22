@@ -28,6 +28,7 @@ const SinglePage = ({ match }) => {
           content="https://twitter.com/hockeycomp"
           property="twitter:author"
         />
+        <link rel="apple-touch-icon" href={article.img} />
 
         <link href={article.img} rel="icon" type="image/x-icon" />
         <meta content="@hockeycomp" name="twitter:site" />

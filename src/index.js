@@ -69,6 +69,10 @@ class App extends Component {
             content="a new modern web blog template cute blog for react with helmet SEO"
             name="twitter:description"
           />
+          <link
+            rel="apple-touch-icon"
+            href="https://mesinkasironline.web.app/img/createwebsiteusingreact.png"
+          />
           <meta content="cuteblog for react" name="twitter:title" />
         </Helmet>
         <Top />
