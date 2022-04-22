@@ -10,7 +10,7 @@ const ArticleList = ({ articles }) => (
         </Link>
         <h2>{Data.description}</h2>
         <p>
-          <a href="https://www.hockeycomputindo.com/2022/04/cuteblog-11ty-for-eleventy-generator.html">
+          <a href="https://www.hockeycomputindo.com/2022/04/free-download-react-cuteblog-template.html">
             {Data.intro}
           </a>
         </p>
