@@ -70,7 +70,6 @@ class App extends Component {
             name="twitter:description"
           />
           <meta content="cuteblog for react" name="twitter:title" />
-          <meta content="index, follow" name="robots" />
         </Helmet>
         <Top />
         <div className="container">

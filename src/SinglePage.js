@@ -34,7 +34,6 @@ const SinglePage = ({ match }) => {
         <meta content={article.img} name="twitter:image" />
         <meta content={article.desc} name="twitter:description" />
         <meta content={article.title} name="twitter:title" />
-        <meta content="index, follow" name="robots" />
       </Helmet>
       <div className="p-1">
         <div className="card p-1">
