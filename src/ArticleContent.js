@@ -34,7 +34,7 @@ const articles = [
     date: '14 april 2022',
     author: 'axcora',
     authorlink: 'https://website.axcora.com',
-    img: 'https://cdn.dribbble.com/users/77598/screenshots/5919494/dribbble.png',
+    img: 'https://thumbs.dreamstime.com/b/flat-design-business-process-workflow-management-communicating-ready-to-animation-characters-compouse-your-scenes-office-work-128992317.jpg',
     desc: 'Modern Dan elegan website dengan angular',
     content: [
       `Nah yang satu ini bikin puyeng kepala yes.. tingkat kesulitan nya super wow dengan develope project web app dengan angular, tapi setelah proses develope dan deploy selesai rasanya puas dan bangga gitu deh, secara si ng ini memang bener bener bikin kepala hampir botak dan urat nadi mau putus neh.. wwkwk malah curhat yess.`,
@@ -48,7 +48,7 @@ const articles = [
     date: '14 april 2022',
     author: 'axcora',
     authorlink: 'https://website.axcora.com',
-    img: 'https://cdn.dribbble.com/users/77598/screenshots/5919494/dribbble.png',
+    img: 'https://img.freepik.com/free-vector/people-putting-puzzle-pieces-together_52683-28610.jpg?w=2000',
     desc: 'Magican bersama laravel',
     content: [
       `Sang artis dan pendatang baru di dunia framework serta sangat populer di dunia , super magic sih kalau biasa menggunakan PHP , laravel boleh dibilang masih baru loh... awalnya sih banyak orang yang meremahkan framework ini, dan ketika itu masih banyak yg makain CI code iginter dan symfony untuk berbagai project , setelah muncul nya klan js dan ts maka si lara ni tiba tiba ikut muncul juga, dan berkat kehadiran nya klan PHP masih terjaga,dari serangan JS dan TS.`,
@@ -62,7 +62,7 @@ const articles = [
     date: '14 april 2022',
     author: 'axcora',
     authorlink: 'https://website.axcora.com',
-    img: 'https://cdn.dribbble.com/users/77598/screenshots/5919494/dribbble.png',
+    img: 'https://img.freepik.com/free-vector/happy-freelancer-with-computer-home-young-man-sitting-armchair-using-laptop-chatting-online-smiling-vector-illustration-distance-work-online-learning-freelance_74855-8401.jpg?w=2000',
     desc: 'Revolusi dan evolusi bersama MODX',
     content: [
       `Salah satu content management framework favorit kita juga, laternatif dari wordpress, menggunakan modx sangat luar biasa bebas nya, dan tentunya faktor SEO menyempurnakan nya, dengan MODX lebih leluasa untuk berbagai kebutuhan pekerjaan melakukan apapun itu untuk develope nya.`,
@@ -76,7 +76,7 @@ const articles = [
     date: '14 april 2022',
     author: 'axcora',
     authorlink: 'https://website.axcora.com',
-    img: 'https://cdn.dribbble.com/users/77598/screenshots/5919494/dribbble.png',
+    img: 'https://appedology.pk/wp-content/uploads/2020/11/6be369b11b50e0b1c3a2fea19ba7e2ba.png',
     desc: 'Statis site super ringan dengan jekyll',
     content: [
       `Mau sensasi yang lebih keren lagi untuk membangun site atau blog, maka jekyll bisa menjadi pilihan utama mu untuk membuat dan develope modern website maupun blog , dengan jekyll semakin lebih cepat lagi untuk akses speed load nya, dan dengan ruby on rails menyempurnakan jekyll bekerja super cepat nya.`,
@@ -90,7 +90,7 @@ const articles = [
     date: '14 april 2022',
     author: 'axcora',
     authorlink: 'https://website.axcora.com',
-    img: 'https://cdn.dribbble.com/users/77598/screenshots/5919494/dribbble.png',
+    img: 'https://img.freepik.com/free-vector/group-people-working-together_52683-28615.jpg?w=2000',
     date: '14 april 2022',
     desc: 'Masih setia dengan sih blogger blogspot platform',
     content: [
@@ -105,7 +105,7 @@ const articles = [
     date: '14 april 2022',
     author: 'axcora',
     authorlink: 'https://website.axcora.com',
-    img: 'https://cdn.dribbble.com/users/77598/screenshots/5919494/dribbble.png',
+    img: 'https://media.istockphoto.com/vectors/multimedia-content-upload-interface-vector-id1299267805?k=20&m=1299267805&s=612x612&w=0&h=h2TKY77Vcd2144vvjYZbn2eTQr6XoHxDLPMKvI4jU7Q=',
     desc: 'Modern CMS generasi terbaru tanpa database super cepat dan ringan',
     content: [
       `Nah kalau kalian nih kesulitan untuk melakukan installasi dan deploy develope berbagai technology modern framewrok seperti gatsby, react js, angular dan laravel maka cms ini bisa kamu gunakan , solusi paling tepat deh.`,
