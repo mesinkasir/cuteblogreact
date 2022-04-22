@@ -12,7 +12,7 @@ const Nav = () => (
         </p>
         <a
           className="nav-link btn btn-dark text-white"
-          href="https://github.com/mesinkasir/cuteblog-pico-webapp"
+          href="https://github.com/mesinkasir/cuteblogreact"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
