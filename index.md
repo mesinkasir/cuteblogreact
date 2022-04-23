@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Cuteblog for React
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/cuteblogreact/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![free download react seo template helmet](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqWAtihYlSV4DsPrCp2O827EMD1JIkyqjamRIHHyIAkWZlrkhbslrRf8R4fwM3W3lBuWmAF7nYD0zbHuRv9ZyAahUiCeWhnLyqzqB1buIHE8zNig88nXCpKf93ugqTkz04zqtT5sDHAz7kM1B0TQizXOCmh5U_uG7GDXurY-SAiHKe3zs_Y_DmYTRhTg/s1920/react%20blog%20free%20download%20source%20code%20gratis%20with%20SEO%20helmet%20(1).jpg>)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+cuteblog for react blogger with helmet SEO
 
-### Markdown
+Documentation : [https://www.hockeycomputindo.com/2022/04/free-download-react-cuteblog-template.html →](https://www.hockeycomputindo.com/2022/04/free-download-react-cuteblog-template.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Test demo : [https://cuteblog.vercel.app/ →](https://cuteblog.vercel.app/)
 
-```markdown
-Syntax highlighted code block
+Play Video : [https://youtu.be/ee98hKYFvg0 →](https://youtu.be/ee98hKYFvg0)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/cuteblogreact/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Live codding on StackBlitz ⚡️
