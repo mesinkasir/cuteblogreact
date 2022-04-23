@@ -45,7 +45,7 @@ const SinglePage = ({ match }) => {
           />
           <main className="card-content p-3 p-md-5">
             <h1>
-              {article.title} <span className="cute">✏️</span>
+              <a href="/"> {article.title}</a> <span className="cute">✏️</span>
             </h1>
             <h3>{article.desc}</h3>
             <p className="date">
