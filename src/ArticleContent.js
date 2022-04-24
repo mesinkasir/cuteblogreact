@@ -80,9 +80,14 @@ const articles = [
     content: [
       `If you need to build and develope cuteblog project with static site generator , of course you can do it... we have develope cuteblog for jekyll, eleventy 11ty and astro, just visit on our github repo and search cuteblog with generator static site download it then run and deploy on hosting.`,
       `You can visit on our blog for download all source code project, just visit on https://www.hockeycomputindo.com/2010/12/blog-post.html`,
-      `Cuteblog for jekyll is soon.. on progress...`,
-      `Cuteblog for eleventy download and read documentation on https://www.hockeycomputindo.com/2022/04/cuteblog-11ty-for-eleventy-generator.html`,
-      `Our first Cuteblog project build using astro download and read documentation on https://www.hockeycomputindo.com/2022/04/cute-blog-astro-generator-static-site.html`,
+      `Cuteblog for jekyll`,
+      `https://www.hockeycomputindo.com/2022/04/auto-seo-dengan-cuteblog-for-jekyll.html`,
+      `Cuteblog for eleventy`,
+      `https://www.hockeycomputindo.com/2022/04/cuteblog-11ty-for-eleventy-generator.html`,
+      `Cuteblog for astro`,
+      `https://www.hockeycomputindo.com/2022/04/cute-blog-astro-generator-static-site.html`,
+      `Cuteblog for pico cms`,
+      `https://www.hockeycomputindo.com/2022/04/tema-blog-website-terbaru-dan-gratis.html`,
     ],
   },
   {
