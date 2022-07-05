@@ -28,9 +28,9 @@ const Nav = () => (
         </a>{' '}
         <a
           className="nav-link btn btn-dark text-white"
-          href="https://app.midtrans.com/payment-links/1647457988722"
+          href="https://www.fiverr.com/creativitas/create-your-website-with-new-technology"
         >
-          Donation
+          👉 Hire Me
         </a>
       </nav>
     ))}
