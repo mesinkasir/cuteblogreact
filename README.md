@@ -4,7 +4,7 @@
 
 cuteblog for react blogger with helmet SEO
 
-Documentation : [https://www.hockeycomputindo.com/2022/04/free-download-react-cuteblog-template.html →](https://www.hockeycomputindo.com/2022/04/free-download-react-cuteblog-template.html)
+Explore all projects: https://www.hockeycomputindo.com
 
 Test demo : [https://cuteblog.vercel.app/ →](https://cuteblog.vercel.app/)
 
